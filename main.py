@@ -13,7 +13,7 @@ class SmartDiet:
         return self.total_calories
 
 
-if __name__ == '__main__':
+if __name__ == '__main__'
     food = {
         "Хлеб": 300,
         "Круассан": 450,
